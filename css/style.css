@@ -11,20 +11,22 @@ html {
     color: white;
 }
 
+.typewrite{
+    color:#fff;
+    text-decoration: none;
+    font-size: 2em;
+}
 #h1name {
     font-weight: 400;
     font-size: 3em;
     letter-spacing: 7px;
 }
 
-#h3title {
-    letter-spacing: 3px;
-    font-size: 3em;
-}
+
 
 .content {
-    padding-top: 15%;
-    padding-bottom: 15%
+    padding-top: 20%;
+    padding-bottom: 20%
 }
 
 #home {
@@ -52,6 +54,7 @@ html {
 .porfoliobtn {
     color: #ffffff;
     background-color: #c000ff;
+    margin-top: 2%;
 }
 
 .headings {
@@ -350,11 +353,9 @@ textarea.form-control {
     width: 100%;
 }
 
-.social-icon-group{
-        padding-top: 5px;
-        font-size: 2em;
+.botom{
+    background-color: #fff;
+    width: 100%;
 }
-.social-icon{
-    color: #c000ff;
-    padding-right: 30%;
-}
+
+
