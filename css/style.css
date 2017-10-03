@@ -349,3 +349,12 @@ textarea.form-control {
     padding: 1px 5px;
     width: 100%;
 }
+
+.social-icon-group{
+        padding-top: 5px;
+        font-size: 2em;
+}
+.social-icon{
+    color: #c000ff;
+    padding-right: 30%;
+}
