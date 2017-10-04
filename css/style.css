@@ -29,7 +29,7 @@ html {
     padding-bottom: 20%
 }
 
-#home {
+#home1 {
     background: url(../img/homebg1.jpg);
     background-size: cover;
     background-position: center;
@@ -304,7 +304,7 @@ html {
     padding-right: 10%;
     padding-top: 20%;
     padding-bottom: 50%;
-    font-size: 11px;
+    font-size: 0.8em;
 }
 
 .visit-site {
@@ -358,4 +358,10 @@ textarea.form-control {
     width: 100%;
 }
 
-
+.folio {
+    color: #c000ff;
+    padding-top: 5%;
+    text-align: left;
+    padding-left: 0;
+    background-color: #1d242f;
+}
